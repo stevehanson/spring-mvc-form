@@ -15,4 +15,4 @@ dependencies {
 
 /* Change context path (base url). otherwise defaults to name of project */
 // eclipse.wtp.component.contextPath = ''
-// jettyRunWar.contextPath = '' 
+jettyRunWar.contextPath = '' 
